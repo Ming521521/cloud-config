@@ -7,3 +7,4 @@ spring:
     name: client2
 server:
   port: 8082
+env: dev
