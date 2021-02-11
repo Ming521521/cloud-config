@@ -7,3 +7,9 @@ eureka:
 server:
   port: 8081
 env: dev
+spring:
+  rabbitmq:
+    host: 118.178.186.197
+    port: 5672
+    username: admin
+    password: admin
